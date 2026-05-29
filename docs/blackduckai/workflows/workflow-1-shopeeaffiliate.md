@@ -1,6 +1,6 @@
 # WorkFlow-1-ShopeeAffiliate
 
-Status: **Main company workflow / source of truth** for BlackDuckAi โปรคุ้ม Shopee Affiliate Facebook content loops.
+Status: **Main company workflow / source of truth** for BlackDuckAi Shopee Affiliate Facebook content loops.
 
 Owner: Red coordinates the Shopee, Facebook, Brandcreative, and QA specialists.
 
@@ -10,7 +10,7 @@ Former trigger: `ShopeeAffiliate` is deprecated. Use `WorkFlow-1-ShopeeAffiliate
 
 ## Purpose
 
-Run one complete โปรคุ้ม Shopee Affiliate campaign loop:
+Run one complete Shopee Affiliate Facebook campaign loop:
 
 1. Check Shopee API.
 2. Check Facebook API.
@@ -66,7 +66,7 @@ Accepted approval phrases include: `โพสต์จริง`, `โพสต�
 
 ## Product selection
 
-Use TOP's filters for the run. If TOP does not override, use the currently approved โปรคุ้ม defaults.
+Use TOP's filters for the run. If TOP does not override, use the currently approved ShopeeAffiliate defaults.
 
 For runs like the latest approved bestseller workflow, enforce:
 
@@ -305,5 +305,5 @@ A run is not complete until the final report confirms:
 The workflow source of truth is mirrored in:
 
 - GitHub repository documentation: this file.
-- Obsidian Wiki note: `Wiki/โปรคุ้ม/Prokhoom-Full-Image-Video-Posting-Workflow.md`.
-- Hermes skill reference: `prokhoom-facebook-content-ads-workflow/references/full-image-video-posting-workflow.md`.
+- Obsidian Wiki note: `Wiki/ShopeeAffiliate/WorkFlow-1-ShopeeAffiliate.md`.
+- Hermes skill reference: `workflow-1-shopeeaffiliate/references/full-image-video-posting-workflow.md`.
